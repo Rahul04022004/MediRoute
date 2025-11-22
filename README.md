@@ -6,15 +6,15 @@ This project is built with React, TypeScript, Vite, and Tailwind CSS, with AI in
 
 ## Features
 
-- 🗺️ **Real-time Fleet Tracking** - Live GPS tracking of all ambulances on an interactive map
-- 🤖 **AI-Powered Dispatch** - Smart ambulance allocation using Google Gemini AI
-- 📊 **Live Analytics Dashboard** - Performance metrics, response times, and incident analysis
-- 🚨 **Priority Incident Management** - Color-coded incident severity with automatic routing
-- 🏥 **Hospital Integration** - Automatic routing to nearest hospitals
-- 📱 **Driver & Dispatcher Views** - Separate interfaces for drivers and dispatch coordinators
-- 🎯 **Route Optimization** - OSRM API integration for real-time routing
-- 📢 **Real-time Notifications** - Audio and visual alerts for critical events
-- 🔄 **Simulation Mode** - Realistic EMS workflow simulation for testing and demo
+-  **Real-time Fleet Tracking** - Live GPS tracking of all ambulances on an interactive map
+- **AI-Powered Dispatch** - Smart ambulance allocation using Google Gemini AI
+- **Live Analytics Dashboard** - Performance metrics, response times, and incident analysis
+- **Priority Incident Management** - Color-coded incident severity with automatic routing
+- **Hospital Integration** - Automatic routing to nearest hospitals
+- **Driver & Dispatcher Views** - Separate interfaces for drivers and dispatch coordinators
+- **Route Optimization** - OSRM API integration for real-time routing
+- **Real-time Notifications** - Audio and visual alerts for critical events
+- **Simulation Mode** - Realistic EMS workflow simulation for testing and demo
 
 ## Local Development
 
